@@ -14,7 +14,6 @@ function handleClick(){
 } 
 
 // Detecting key press
-
   document.addEventListener("keypress" , function(event){
     makeSound(event.key);
   });
