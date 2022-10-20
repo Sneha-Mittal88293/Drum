@@ -1,2 +1,2 @@
 # Drum
-using html css, javascript , Dom
+Using html , css,javascript and Dom
